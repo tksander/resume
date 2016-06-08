@@ -1,0 +1,117 @@
+{
+  "basics": {
+    "name": "Tommy Sander",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "tkepasander@gmail.com",
+    "website": "http://tommysander.com",
+    "summary": "Tommy enjoys programming/engineering/hacking on any and all types of software.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "TommySander1",
+        "url": "https://twitter.com/TommySander1"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/thomasksander"
+      },
+      {
+        "network": "github",
+        "username": "tksander",
+        "url": "https://github.com/tksander"
+      }
+    ]
+  },
+ "skills": [
+  {
+    "name": "Highlights",
+    "keywords": [
+      "Javascript",
+      "Angular 1 & 2",
+      "Scala",
+      "Git",
+      "Vim",
+      "CSS"
+    ]
+  },
+  {
+    "name": "Frontend Development",
+    "keywords": [
+      "Javascript",
+      "CSS/HTML",
+      "ES5 & ES6",
+      "Angular 1 & 2",
+      "Typescript",
+      "Grunt",
+      "JSPM",
+      "SystemJS",
+      "React",
+      "React Native",
+      "Redux",
+      "Jenkins",
+      "Functional",
+      "Hybrid Mobile Development",
+      "Ionic Framework"
+    ]
+  },
+  {
+    "name": "Backend Development",
+    "keywords": [
+      "Scala",
+      "Node/Express",
+      "Slick",
+      "Liquibase",
+      "Play Framework",
+      "Akka",
+      "MySQL",
+      "Postgres",
+      "Functional"
+    ]
+  },
+  {
+    "name": "Other Languages and Plateforms",
+    "keywords": [
+      "java"
+    ]
+  },
+  {
+    "name": "Version Control",
+    "keywords": [
+      "git",
+      "GitHub"
+    ]
+  },
+  {
+    "name": "Development Tools",
+    "keywords": [
+      "vim",
+      "tmux"
+    ]
+  },
+  {
+    "name": "DevOps",
+    "keywords": [
+      "docker",
+      "s3",
+      "heroku"
+    ]
+  }
+ ],
+ "education": [{
+     "institution": "University of Southern California",
+     "area": "Neuroscience",
+     "studyType": "Bachelor of Science",
+     "startDate": "2008-08-25",
+     "endDate": "2012-12-10",
+     "courses": [
+         ]
+   }]
+}

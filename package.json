@@ -1,0 +1,24 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "My resume",
+  "scripts": {
+    "start": "node_modules/resume-cli/index.js serve",
+    "export": "node_modules/resume-cli/index.js export --format html --theme classy resume.json",
+    "test": "node_modules/resume-cli/index.js test",
+    "publish": "node_modules/resume-cli/index.js publish --theme flat",
+    "login": "node_modules/resume-cli/index.js login"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Tommy Sander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/tksander/resume/issues"
+  },
+  "dependencies": {
+    "jshint": "^2.9.1",
+    "resume-cli": "^0.4.11"
+  }
+}
